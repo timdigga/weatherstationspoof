@@ -18,7 +18,8 @@ To install the program, follow the steps below:
 ### 2. Do those steps!
 1. sudo apt install libhackrf-dev
 2. make
-3. Usage: ./spoof_temp [-o file] [-i ID] [-c channel] [-t temp] [-h humidity]
+3. **Usage: ./spoof_temp [-o file] [-i ID] [-c channel] [-t temp] [-h humidity]**
+
 It automatically saves you the .sub file!
 Just drag and drop it into the Flipper SD-Card on /subghz/ !
 To run it --> open Sub-GHz App on your Flipper --> saved --> there you have it!
